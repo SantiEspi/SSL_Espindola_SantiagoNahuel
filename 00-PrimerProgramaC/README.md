@@ -1,0 +1,1 @@
+Portada de la resolución del TP0 con una breve explicación de lo que van a desarrollar en lenguaje C.
